@@ -1,0 +1,19 @@
+{
+    "model_epoch2_eval":
+        {
+            "accuracy_overall": 0.9759656652360515,
+            "accuracy_label0": 0.9907084785133565
+        },
+
+    "model_epoch4_eval":
+        {
+            "accuracy_overall": 0.9759656652360515,
+            "accuracy_label0": 0.9965156794425087
+        },
+    "model_epoch6_eval":
+        {
+            "accuracy_overall": 0.9759656652360515,
+            "accuracy_label0": 0.9965156794425087
+        }
+
+}
