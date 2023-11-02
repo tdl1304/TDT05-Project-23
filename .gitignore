@@ -1,4 +1,5 @@
 /venv
 /vit_model
 .DS_Store
+/cnn_model
 /resnet_model
